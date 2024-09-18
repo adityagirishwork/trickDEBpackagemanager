@@ -1,0 +1,5 @@
+trick (1.0-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Aditya Girish <aditya.girish@nasa.gov>  Tue, 17 Sep 2024 09:34:11 -0500
