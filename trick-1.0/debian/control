@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Aditya Girish <aditya.girish@nasa.gov>
 Rules-Requires-Root: no
 Build-Depends:
- debhelper-compat (= 13), bison, clang, flex, git, llvm, make, maven, swig, cmake, curl, g++, libx11-dev, libxml2-dev, libxt-dev, libmotif-common, libmotif-dev,
+ debhelper, bison, clang, flex, git, llvm, make, maven, swig, cmake, curl, g++, libx11-dev, libxml2-dev, libxt-dev, libmotif-common, libmotif-dev,
   python3-dev, zlib1g-dev, llvm-dev, libclang-dev, libudunits2-dev,
   libgtest-dev, default-jdk, zip
 Standards-Version: 4.7.0
