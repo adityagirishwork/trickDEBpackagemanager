@@ -1,0 +1,12 @@
+bin/trick-ICG
+bin/trick-gxplot
+bin/trick-trk2ascii
+lib64/libtrick.a
+lib64/libtrick_comm.a
+lib64/libtrick_connection_handlers.a
+lib64/libtrick_math.a
+lib64/libtrick_mm.a
+lib64/libtrick_pyip.a
+lib64/libtrick_units.a
+lib64/libtrick_var_binary_parser.a
+lib64/liber7_utils.a
