@@ -1,0 +1,4 @@
+debian/source/trick_1.0.tar.gz
+debian/bin/trick-ICG
+debian/bin/trick-gxplot
+debian/bin/trick-trk2ascii

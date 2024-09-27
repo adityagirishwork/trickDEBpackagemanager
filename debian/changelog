@@ -1,0 +1,7 @@
+trick (1.0-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * This is the first release of the debian package for Trick
+  * Created the debian file
+
+ -- Aditya Girish <aditya.girish@nasa.gov>  Tue, 24 Sep 2024 17:09:58 -0500

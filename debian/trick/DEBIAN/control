@@ -1,0 +1,10 @@
+Package: trick
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Aditya Girish <aditya.girish@nasa.gov>
+Installed-Size: 11
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://github.com/nasa/trick
+Description: Debian package manager containing the essential libraries necessary for Trick-based simulations to run.
