@@ -1,0 +1,17 @@
+Source: trick-1.0
+Priority: optional
+Maintainer: Aditya Girish <aditya.girish@nasa.gov>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Section: libs
+Homepage: <https://github.com/nasa/trick>
+#Vcs-Browser: https://salsa.debian.org/debian/trick-1.0
+#Vcs-Git: https://salsa.debian.org/debian/trick-1.0.git
+Rules-Requires-Root: no
+ 
+Package: trick-1.0
+Architecture: any
+Multi-Arch: same
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+  <insert long description, indented with spaces>

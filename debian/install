@@ -1,0 +1,5 @@
+lib/* /usr/lib/trick/lib/
+bin/* /usr/lib/trick/bin/
+er7_utils/* /usr/lib/trick/trick_source/er7_utils/
+include/* /usr/lib/trick/include/
+libexec/* /usr/lib/trick/libexec/
